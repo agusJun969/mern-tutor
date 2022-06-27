@@ -1,0 +1,2 @@
+$makan = "aku"
+fgfgfg = "hjhj"
