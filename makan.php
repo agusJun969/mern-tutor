@@ -1,2 +1,0 @@
-$makan = "aku"
-fgfgfg = "hjhj"
