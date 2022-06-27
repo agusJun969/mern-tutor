@@ -1,0 +1,20 @@
+{
+  "name": "mern-tutor",
+  "version": "1.0.0",
+  "description": "Goalsetter app tutorial",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agusJun969/mern-tutor.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agusJun969/mern-tutor/issues"
+  },
+  "homepage": "https://github.com/agusJun969/mern-tutor#readme"
+}
